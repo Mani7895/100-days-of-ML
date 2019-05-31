@@ -3,6 +3,6 @@
 ## Day1
 ### Linear Regression
   Implemented Linear Regression\
-    Simple: One feature
-    Multiple: Multiple features and also used back propagation
-    Polynomial: nth degree polynomial
+    1. Simple: One feature\
+    2. Multiple: Multiple features and also used back propagation\
+    3. Polynomial: nth degree polynomial
