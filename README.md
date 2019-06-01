@@ -9,8 +9,8 @@
 
 ## Day 2
 ### Linear Regression...
-	Visualized Time Series Data\
-	Used RFE to eliminate features which doesn't have much impact\
-	Analyzed Housing, Advertising, Marketing Data\
+	Visualized Time Series Data
+	Used RFE to eliminate features which doesn't have much impact
+	Analyzed Housing, Advertising, Marketing Data
 	HotStar Case Study in progress...
 
